@@ -112,10 +112,8 @@ Push to the branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📜 License
-Distributed under the MIT License. See LICENSE for more information.
+📝 License
+© 2025 Guruprasad | All Rights Reserved. This project is proprietary and not open-source for redistribution.
 
-👤 Author
-GP
-
-GitHub: @YOUR_USERNAME
+👋 Contact
+For any questions or feedback, please reach out to Guruprasad Patil(patilguruprasad2004@gmail.com).
